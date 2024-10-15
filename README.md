@@ -20,13 +20,15 @@ Usage:
 
 For an example of the PasswordGenerator in action, refer to the image below:
 
-![image](https://github.com/user-attachments/assets/6365de4d-6733-475a-8e32-0c565091669f)
+![image](https://github.com/user-attachments/assets/08e66199-210f-4dc8-971a-1ffb6582dfe4)
 
-In this image, the password generated (by specifying a length of 12 and including only numbers as well as the default lowercase characters) has a moderate strength. 
-This could be increased by selecting the other two checkboxes:
 
-![image](https://github.com/user-attachments/assets/5a19645f-b39a-4449-8e53-cd8e5014471d)
+In this image, the password generated (by specifying a length of 12 and including only numbers as well as the default lowercase characters) has a strength of "Weak". 
+The strength of the generated password can be increased by selecting the other two checkboxes and increasing the number of characters:
 
-Once the checkboxes for uppercase and special characters are selected, the password strength changes from Moderate to Strong. 
+![image](https://github.com/user-attachments/assets/aac2342b-724b-46a4-99cb-50b8b95bba06)
+
+
+Once the checkboxes for uppercase and special characters are selected, and the number of characters increases to 16, the password strength changes from Weak to Very Strong. 
 
 Enjoy!
